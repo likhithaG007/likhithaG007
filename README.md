@@ -256,12 +256,6 @@ Currently pursuing a B.E. in Computer Science & Engineering with a specializatio
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithaG007&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" />
-</p>
-
 ---
 
 ## Contribution Activity
@@ -272,11 +266,6 @@ Currently pursuing a B.E. in Computer Science & Engineering with a specializatio
 
 ---
 
-## Contribution Snake
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/likhithaG007/likhithaG007/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
