@@ -4,9 +4,7 @@
 
 ### B.E. CSE (AI & ML) Student | Python | C | Software Development
 
-<p>
-  <img src="./profile.jpg" width="180" alt="Likhitha G" style="border-radius: 50%;">
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=LIKHITHA%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p>
   <a href="https://github.com/likhithaG007">
