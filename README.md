@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+ML+Student;Aspiring+AI%2FML+Engineer;Software+Development+Enthusiast;Curious+Learner+%7C+Builder+%7C+Team+Player" alt="Typing SVG" />
 </p>
 
-<!-- PROFILE PHOTO -->
-
-<p align="center">
-  <img src="./profile.jpg" width="180" alt="Likhitha G" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.E.-CSE%20%7C%20AI%20%26%20ML-6E40C9?style=for-the-badge" />
