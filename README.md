@@ -258,11 +258,7 @@ Currently pursuing a B.E. in Computer Science & Engineering with a specializatio
 
 ---
 
-## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithaG007&bg_color=0D1117&color=9B7EDE&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
-</p>
 
 ---
 
