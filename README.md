@@ -1,173 +1,290 @@
-<div align="center">
+## Hi there 👋
 
-# 💜 LIKHITHA G
+# LIKHITHA G
 
-### B.E. CSE (AI & ML) Student | Python | C | Software Development
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=LIKHITHA%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=LIKHITHA%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+ML+Student;Aspiring+AI%2FML+Engineer;Software+Development+Enthusiast;Curious+Learner+%7C+Builder+%7C+Team+Player" alt="Typing SVG" />
+</p>
 
-<p>
+<!-- PROFILE PHOTO -->
+
+<p align="center">
+  <img src="./profile.jpg" width="180" alt="Likhitha G" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.E.-CSE%20%7C%20AI%20%26%20ML-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNSIT-2025--2029-4B3F72?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20India-6A5ACD?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://github.com/likhithaG007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/likhitha-g-424583429/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/likhitha-g-424583429">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:likhithag007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=likhithaG007&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/likhithaG007?style=flat-square&color=6D28D9&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/likhithaG007?style=flat-square&color=8B5CF6&label=STARS" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-Hi! I'm **Likhitha G**, a B.E. Computer Science and Engineering student at **RNS Institute of Technology, Bengaluru**.
+I am a **B.E. Computer Science & Engineering (AI & ML)** student at **RNS Institute of Technology, Bengaluru**, with an interest in **AI/ML engineering and software development**.
 
-I'm interested in **software development, problem solving and building practical projects** that solve real-world problems.
+I enjoy learning new technologies, building practical projects, exploring AI-powered solutions, and strengthening my programming and problem-solving skills.
 
-* 🎓 B.E. CSE (AI & ML)
-* 💻 Currently improving my programming and problem-solving skills
-* 🧩 Practicing Data Structures & Algorithms
-* 🚀 Building practical projects
-* 🌱 Continuously learning new technologies
-* 🎯 Open to internship opportunities and learning experiences
+My current focus is on developing a stronger foundation in **Python, C, AI/ML, software development, Git/GitHub, and prompt engineering** while gaining practical experience through projects and technical activities.
 
----
+### Open To
 
-## 🛠️ Skills
-
-### Programming
-
-* 🐍 Python
-* 💻 C
-
-### Web & Development
-
-* 🌐 HTML
-* 🎨 CSS
-* 🔧 GitHub
-
-### Other
-
-* 🧩 Problem Solving
-* 📊 Data Structures & Algorithms
-* 🤝 Team Collaboration
+* Software Development Internships
+* AI/ML Internship Opportunities
+* Student Developer Programs
+* Collaborative Projects
+* Open-Source Learning Opportunities
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🎯 Mood Quest
+### Languages
 
-An interactive project designed to help users engage with their mood through a fun and simple experience.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
 
-🔗 **Live Project:**
-https://moodquest-ai.lovable.app
+| Technology | Level        |
+| ---------- | ------------ |
+| Python     | Intermediate |
+| C          | Beginner     |
+| HTML       | Basic        |
+| CSS        | Basic        |
 
----
+### Frontend
 
-### 📚 Shiksha Sahaya
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-An educational project focused on providing useful learning support and resources through a simple web-based interface.
+### Backend & Databases
 
-🔗 **Live Project:**
-https://shiksha-sahaya.lovable.app
+Currently building foundational knowledge in software development and exploring backend technologies.
 
----
+### Tools & Development
 
-## 💻 Coding & Problem Solving
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-I'm actively practicing programming and improving my problem-solving skills through coding challenges.
+* Git / GitHub
+* MATLAB
+* VS Code
+* Canva
 
-* LeetCode problem solving
-* C programming
-* Python programming
-* Data Structures & Algorithms
+### AI & Productivity
 
----
-
-## 🎓 Education
-
-**B.E. Computer Science & Engineering (AI & ML)**
-RNS Institute of Technology, Bengaluru
-
----
-
-## 📜 Certifications & Learning
-
-* Programming & development courses
-* Coding practice
-* Continuous technical learning
+* Artificial Intelligence & Machine Learning
+* Prompt Engineering
+* Generative AI Tools
 
 ---
 
-## 📊 GitHub Analytics
+## AI / ML Expertise
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=likhithaG007&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithaG007&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
+| Domain                  | Proficiency | Details                                                |
+| ----------------------- | ----------- | ------------------------------------------------------ |
+| Artificial Intelligence | Beginner    | Academic and project-based exposure                    |
+| Machine Learning        | Beginner    | Studying AI/ML as part of B.E. specialization          |
+| Prompt Engineering      | Beginner    | Prompt development and Generative AI tools             |
+| Generative AI           | Beginner    | Practical exposure through projects and certifications |
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
 
-```text
-C Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Problem Solving
-        ↓
-Building Practical Projects
-        ↓
-Internship Preparation
+<details>
+<summary><strong>01 · Mood Quest — AI-Based Emotional Wellness Platform</strong></summary>
+
+<br>
+
+**Mood Quest** is a website focused on supporting users dealing with stress and anxiety.
+
+The project involved website creation, prompt development, and research-paper preparation.
+
+| Category        | Details                                                   |
+| --------------- | --------------------------------------------------------- |
+| **Stack**       | Lovable · Claude · GitHub                                 |
+| **Scale**       | Student Project                                           |
+| **Performance** | Web-based platform                                        |
+| **Security**    | No security implementation claimed in source material     |
+| **Impact**      | Designed to support users dealing with stress and anxiety |
+| **Status**      | Completed                                                 |
+| **Repository**  | [GitHub](https://github.com/likhithaG007)                 |
+
+### Contribution
+
+* Contributed to website development
+* Worked on prompt development
+* Contributed to research-paper preparation
+* Used AI-assisted development tools
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>02 · Shikshana Sahaya — Educational Support Website</strong></summary>
+
+<br>
+
+**Shikshana Sahaya** is an educational support website designed to help government school students facing educational difficulties.
+
+| Category        | Details                                                        |
+| --------------- | -------------------------------------------------------------- |
+| **Stack**       | Lovable · Claude · GitHub                                      |
+| **Scale**       | Student Project                                                |
+| **Performance** | Web-based platform                                             |
+| **Security**    | No security implementation claimed in source material          |
+| **Impact**      | Focused on supporting students facing educational difficulties |
+| **Status**      | Completed                                                      |
+| **Repository**  | [GitHub](https://github.com/likhithaG007)                      |
+
+### Contribution
+
+* Contributed to website creation
+* Contributed to project development
+* Worked with AI-assisted development tools
+
+</details>
+
+---
+
+## Experience
+
+### Student Developer & Project Contributor
+
+**RNS Institute of Technology, Bengaluru**
+**2025 — Present**
+
+Currently pursuing a B.E. in Computer Science & Engineering with a specialization in Artificial Intelligence & Machine Learning.
+
+**Scope of Work**
+
+* Building academic and practical projects
+* Developing foundational programming skills
+* Exploring AI/ML concepts
+* Working with Git/GitHub
+* Participating in technical clubs and activities
+* Continuously developing software-development skills
+
+**Skills:** Python · C · AI/ML · Git · GitHub · Prompt Engineering
+
+---
+
+## Achievements
+
+| Recognition              | Details                                            |
+| ------------------------ | -------------------------------------------------- |
+| **Academic Performance** | 96% in PUC                                         |
+| **Academic Performance** | 98.72% in 10th                                     |
+| **Gold Certification**   | Digital Engineering — FutureSkills Prime / NASSCOM |
+| **Python Training**      | 85% — Python 3.4.3 Training                        |
+
+---
+
+## Certifications
+
+### Infosys Springboard
+
+* Mobile App Development using Flutter
+* Introduction to Artificial Intelligence
+* Prompt Engineering
+* Introduction to Python
+* Prompt Engineering with Generative AI Tools
+
+### Spoken Tutorial — IIT Bombay / EduPyramids
+
+* C Training
+* Python 3.4.3 Training — **85%**
+
+### FutureSkills Prime / NASSCOM
+
+* Digital Engineering — **Gold Certificate**
+
+### be10x
+
+* AI Tools & ChatGPT Workshop
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</p>
+
+<p align="center">
+  <i>Coding and problem-solving journey in progress.</i>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithaG007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=8B5CF6&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithaG007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=likhithaG007&theme=tokyonight&hide_border=true&background=0D1117&ring=9B7EDE&fire=8B5CF6&currStreakLabel=9B7EDE" />
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Python
+  - C
+  - Data Structures & Problem Solving
+  - Artificial Intelligence & Machine Learning
+  - Software Development
+  - Practical software projects
+  - AI/ML-based projects
+  - Strong GitHub portfolio
+
+Exploring:
+  - Generative AI
+  - Prompt Engineering
+  - Full-stack development fundamentals
+
+Open To:
+  - Software Development Internships
+  - AI/ML Internships
+  - Student Developer Opportunities
+  - Collaborative Projects
 ```
 
----
-
-## 🌱 Currently Learning
-
-* C Programming
-* Data Structures & Algorithms
-* Python
-* Web Development
-* GitHub & Version Control
-* Software Development Practices
-
----
-
-## 🤝 Clubs & Activities
-
-Interested in participating in technical activities, collaborative projects and opportunities that help me improve my development and problem-solving skills.
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-📧 **Email:** [likhithag007@gmail.com](mailto:likhithag007@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/likhitha-g-424583429/
-
-💻 **GitHub:**
-https://github.com/likhithaG007
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Learning. Building. Improving. One project at a time."* ✨
-
-</div>
+<!--
+**likhithaG007/likhithaG007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
